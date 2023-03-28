@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: ''
+description: METADATA
 file: /media/courses/site22/image1.png
 file_type: image/png
 image_metadata:
